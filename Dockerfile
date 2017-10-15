@@ -14,6 +14,5 @@ USER nobody
 
 WORKDIR /tmp 
 
-ENV foobar "Hello World"
 
 EXPOSE 2222 
